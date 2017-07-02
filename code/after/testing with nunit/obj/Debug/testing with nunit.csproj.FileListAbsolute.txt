@@ -1,0 +1,25 @@
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\obj\Debug\testing with nunit.csprojResolveAssemblyReference.cache
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\testing with nunit.dll.config
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\testing with nunit.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\testing with nunit.pdb
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\Castle.Core.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\EntityFramework.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\EntityFramework.SqlServer.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\mocking_with_moq.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\Moq.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\Newtonsoft.Json.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\nunit.framework.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Net.Http.Formatting.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Web.Http.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Web.Http.WebHost.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\mocking_with_moq.pdb
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\EntityFramework.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\EntityFramework.SqlServer.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\Moq.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\Newtonsoft.Json.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\nunit.framework.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Net.Http.Formatting.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Web.Http.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\bin\Debug\System.Web.Http.WebHost.xml
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\obj\Debug\testing with nunit.dll
+C:\programming\learninghabits_material\27 - Mocking with Moq\mocking with moq\code\after\testing with nunit\obj\Debug\testing with nunit.pdb
